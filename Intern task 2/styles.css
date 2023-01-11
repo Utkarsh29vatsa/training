@@ -1,0 +1,41 @@
+body {
+    background-color: #f5ddaa;
+}
+
+h1 {
+    text-align: center;
+    background-color: darkred;
+    color: white;
+    border-bottom: 10px solid rgb(221, 14, 14);
+}
+
+h2 {
+    color: white;
+    background-color: rgb(6, 167, 6);
+    font-weight: 100;
+    padding-left: 5px;
+}
+
+ul {
+    color: brown;
+}
+
+h4 {
+    font-weight: bold;
+    color: rgb(158, 156, 156);
+}
+
+table {
+    border: 1px solid black;
+    background-color: rgb(197, 194, 194);
+}
+
+td {
+    border: 1px solid black;
+}
+
+
+img {
+    border: 3px dotted gray ;
+}
+

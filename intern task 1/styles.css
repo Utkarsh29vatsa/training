@@ -1,0 +1,52 @@
+.main {
+    border: 1px transparent white;
+    padding: 4px;
+    width: 457px;
+    height: 138px;
+    margin: auto;
+}
+
+img {
+width: 130px;
+height: 137px;
+float: left;
+margin-right: 14px;
+margin-bottom: 4px;
+}
+
+.username {
+font-weight: bolder;
+font-size: 20px;
+margin-bottom: 14px;
+font-family: 'Roboto', sans-serif;
+}
+
+.tweet {
+font-weight:normal;
+font-size: 20px;
+font-family: 'Roboto', sans-serif;
+margin-bottom: 24px;
+}
+
+.btn-img {
+ width: 20px;
+ height: 20px;
+}
+
+.button-with-count{
+display: flex;
+align-items: center;
+color: #858991;
+}
+
+.buttons {
+display: flex;
+}
+
+.count {
+font-family: 'Roboto';
+font-weight: 500;
+size: 15px;
+margin-left: 14px;
+margin-right: 24px;
+}
